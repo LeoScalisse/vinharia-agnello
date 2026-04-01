@@ -6,7 +6,7 @@ alert(`Cadastro realizado!\nSeja bem vindo ${nome}, Veja os detalhes no console.
 console.log(`Olá ${nome}, esses são os nossos vinhos disponíveis para o estado de ${estado}: `);
 
 console.log(`Cabernet 2020:
-TIPO - tinto
+TIPO - Tinto
 
 SAFRA - 2020
 
@@ -17,7 +17,7 @@ PAÍS - França
 
 
 console.log(`Sauvignon Blanc 2023:
-TIPO - tinto
+TIPO - Branco
 
 SAFRA - 2023
 
@@ -28,7 +28,7 @@ PAÍS - Argentina
 
 
 console.log(`Viejo Feo Reserva Pinot Noir Rosé 2024:
-TIPO - tinto
+TIPO - Rosé
 
 SAFRA - 2024
 
